@@ -1,0 +1,23 @@
+{
+  "name": "django-chatapp",
+  "version": "1.0.0",
+  "description": "multiUser chat app using django and python",
+  "main": "n",
+  "scripts": {
+    "test": "python manage.py runserver"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustyxlol/Django-ChatApp.git"
+  },
+  "keywords": [
+    "django",
+    "python"
+  ],
+  "author": "Gaurav Punetha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rustyxlol/Django-ChatApp/issues"
+  },
+  "homepage": "https://github.com/rustyxlol/Django-ChatApp#readme"
+}
